@@ -1,32 +1,96 @@
-# Prerequisites
-*.d
 
-# Compiled Object files
-*.slo
-*.lo
-*.o
-*.obj
+# Source	Deployment file.
+*.asmx
 
-# Precompiled Headers
-*.gch
+# Source	Active Server Page file.
+*.asp
+
+# Project	Application template project file.
+*.atp
+
+# Compiling	The browser code file.
+*.bsc
+
+# Resource	Cursor bitmap graphic file.
+*.cur
+
+# Project	Database project file.
+*.dbp	
+
+# Source	The dynamic discovery document file. Handles XML Web service discovery.
+*.disco
+
+# Resource	Common Web files.
+*.htm
+*.html
+*.xsp
+*.asp
+*.htc
+*.hta
+*.xml
+
+# Project	Help project file.
+*.HxC
+
+# Resource	Icon bitmap graphic file.
+*.ico
+
+# Compiling	The state file, containing dependency information between source files and class definitions. It can be used by the compiler during incremental compilation. Use the /Fd compiler option to specify the name of the .idb file.
+*.idb
+
+# Compiling	An interface definition language file. For more information, see Interface Definition (IDL) File in the Windows SDK.
+*.idl
+
+# Linking	Incremental link file. For more information, see /INCREMENTAL.
+*.ilk
+
+# Linking	A text file containing linker information. Use the /Fm compiler option to name the map file. For more information, see /MAP.
+*.map
+
+# Resource	A resource file that contains the XML code that defines the MFC buttons, controls, and attributes in the ribbon. For more information, see Ribbon Designer.
+*.mfcribbon-ms
+
+# Debug	Precompiled header file.
 *.pch
 
-# Compiled Dynamic libraries
-*.so
-*.dylib
-*.dll
+# Resource	Resource script files to generate resources.
+*.rc
+*.rc2
 
-# Fortran module files
-*.mod
-*.smod
+# Compiling	Source browser intermediate file. The input file for BSCMAKE.
+*.sbr
 
-# Compiled Static libraries
-*.lai
-*.la
-*.a
-*.lib
+# Solution	The solution file.
+*.sln
 
-# Executables
-*.exe
-*.out
-*.app
+# Solution	The solution options file.
+*.suo
+
+# Project	A Visual Studio Analyzer project file.
+*.vap
+
+# Solution	A compatible project group file.
+*.vbg
+
+# Project	The Visual Basic project file.
+*.vbp
+*.vip
+*.vbproj
+
+# Project	Shared Items project for sharing code files between multiple C++ projects. For more information, see Project and Solution Files.
+*.vcxitems
+
+# Project	The Visual Studio project file. For more information, see Project and Solution Files.
+*.vcxproj
+
+# Project	Used when you use Solution Explorer to add a file to a project. The filters file defines where in the Solution Explorer tree view to add the file, based on its file name extension.
+*.vcxproj.filters
+
+# Project	The Visual Studio deployment project file.
+*.vdproj	
+
+# Project	The macro project file.
+*.vmx
+
+# Project	The utility project file.
+*.vup
